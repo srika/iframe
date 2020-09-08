@@ -1,99 +1,99 @@
 {
  "urmedia": [
     {
-      category: 'News',
-      list: [
+      "category": "News",
+      "list": [
         {
-          videoId: 'bl9VaUaI0r0',
-          title: 'V6 News LIVE | Telugu Live TV Channel | V6 News',
+          "videoId": "bl9VaUaI0r0",
+          "title": "V6 News LIVE | Telugu Live TV Channel | V6 News"
         },
         {
-          videoId: '8McTsOqeueE',
-          title: "Sakshi TV LIVE | Today 'Telugu News' LIVE | సాక్షి టీవీ లైవ్",
+          "videoId": "8McTsOqeueE",
+          "title": "Sakshi TV LIVE | Today 'Telugu News' LIVE | సాక్షి టీవీ లైవ్"
         },
         {
-          videoId: 'E_JY-Z3_nX0',
-          title: 'ABN Telugu LIVE',
+          "videoId": "E_JY-Z3_nX0",
+          "title": "ABN Telugu LIVE"
         },
         {
-          videoId: 'HUiHKse-YgM',
-          title: 'Ntv Telugu LIVE',
+          "videoId": "HUiHKse-YgM",
+          "title": "Ntv Telugu LIVE"
         },
         {
-          videoId: 'NezGUhHsl_8',
-          title: 'TV5 News LIVE | Telugu News',
+          "videoId": "NezGUhHsl_8",
+          "title": "TV5 News LIVE | Telugu News"
         },
         {
-          videoId: 'ErZT6EPy_gI',
-          title: 'hmtv Live | hmtv Live News',
+          "videoId": "ErZT6EPy_gI",
+          "title": "hmtv Live | hmtv Live News"
         },
         {
-          videoId: 'vGAIZk0VkxI',
-          title: 'T News Live Telugu',
+          "videoId": "vGAIZk0VkxI",
+          "title": "T News Live Telugu"
         },
         {
-          videoId: 'Zn3nEQ-ufsY',
-          title: 'iNews Telugu LIVE',
+          "videoId": "Zn3nEQ-ufsY",
+          "title": "iNews Telugu LIVE"
         },
         {
-          videoId: 'Y2HBK7Ix9Ro',
-          title: 'AP24x7 LIVE',
+          "videoId": "Y2HBK7Ix9Ro",
+          "title": "AP24x7 LIVE"
         },
         {
-          videoId: '6PF1o2tWU1U',
-          title: 'KCR Vs TeenmarMallanna',
+          "videoId": "6PF1o2tWU1U",
+          "title": "KCR Vs TeenmarMallanna"
         },
         {
-          videoId: 'TJhPaxjvhP8',
-          title: 'Anchor Rashmi Gautam Affair with Sudigali Sudheer',
-        },
-      ],
+          "videoId": "TJhPaxjvhP8",
+          "title": "Anchor Rashmi Gautam Affair with Sudigali Sudheer"
+        }
+      ]
     },
     {
-      category: 'Comedy',
-      list: [
+      "category": "Comedy",
+      "list": [
         {
-          videoId: 'zpQzg-eFniU',
-          title: 'Priyadarshi Non Stop Back To Back Comedy Scenes | 2020',
+          "videoId": "zpQzg-eFniU",
+          "title": "Priyadarshi Non Stop Back To Back Comedy Scenes | 2020"
         },
         {
-          videoId: 'yLuZ2lcp1QM',
-          title: 'Venkatesh Funny Food Eating Comedy Scene',
+          "videoId": "yLuZ2lcp1QM",
+          "title": "Venkatesh Funny Food Eating Comedy Scene"
         },
         {
-          videoId: 'H7dHBFZRtiE',
-          title: 'Nagarjuna & Karthi Ultimate Comedy Scene',
-        },
-      ],
+          "videoId": "H7dHBFZRtiE",
+          "title": "Nagarjuna & Karthi Ultimate Comedy Scene"
+        }
+      ]
     },
     {
-      category: 'Movies',
-      list: [
+      "category": "Movies",
+      "list": [
         {
-          videoId: '_Nq2m5LRQ3g',
-          title: 'Janatha Garage Telugu Full Movie',
+          "videoId": "_Nq2m5LRQ3g",
+          "title": "Janatha Garage Telugu Full Movie"
         },
         {
-          videoId: 'nCMT6DcqmBU',
-          title: 'Raja Rani Telugu Full Length Movie',
+          "videoId": "nCMT6DcqmBU",
+          "title": "Raja Rani Telugu Full Length Movie"
         },
         {
-          videoId: 't197BhimicA',
-          title: 'Raghuvaran B.Tech Latest Telugu Movie',
+          "videoId": "t197BhimicA",
+          "title": "Raghuvaran B.Tech Latest Telugu Movie"
         },
         {
-          videoId: '9ocvdY0h5qM',
-          title: 'King Nagarjuna, Karthi And Tamannah Feel Good Special Movie',
+          "videoId": "9ocvdY0h5qM",
+          "title": "King Nagarjuna, Karthi And Tamannah Feel Good Special Movie"
         },
         {
-          videoId: 'u4fetE5LDqg',
-          title: 'Pilla Zamindar Telugu Full Movie',
+          "videoId": "u4fetE5LDqg",
+          "title": "Pilla Zamindar Telugu Full Movie"
         },
         {
-          videoId: 'MY0TatnVP1Y',
-          title: 'Maari 2 Latest Telugu Full Movie',
-        },
-      ],
-    },
+          "videoId": "MY0TatnVP1Y",
+          "title": "Maari 2 Latest Telugu Full Movie"
+        }
+      ]
+    }
   ]
 }
